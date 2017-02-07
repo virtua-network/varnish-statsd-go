@@ -1,0 +1,6 @@
+{
+    "VarnishUrl": "http://127.0.0.1/rtstatus.json",
+    "StatsdAddr": ":8125",
+    "StatsdPrefix": "graphite.prefix.",
+    "SleepPeriod": 10
+}
